@@ -1,0 +1,10 @@
+name: Antialt
+main: net.disaapse-sv.antialt.Antialt
+version: 1
+
+commands:
+  compignore:
+      description: this is ignore cmd
+      usage: /<command>
+      permission: banassist.ignore
+      permission-message: You don't have <permission>
