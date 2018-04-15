@@ -1,0 +1,2 @@
+パクるんじゃないぞぉ
+改造等はDisaapse-svのownerのtora0409に聞いてから、なおかつdisaapse-svの発展に協力していただける場合
